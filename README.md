@@ -9,6 +9,8 @@ A Ruby wrapper for the Infusionsoft API
 
 ## <a name="installation">Installation</a>
     gem install infusionsoft
+    
+    http://www.phpfreelanceprogrammer.com/infusionsoft-api.html
 
 ## <a name="documentation">Documentation</a>
 [http://rubydoc.info/gems/infusionsoft/frames](http://rubydoc.info/gems/infusionsoft/frames)
